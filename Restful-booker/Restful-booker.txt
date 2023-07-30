@@ -1,0 +1,4 @@
+Published URL of Restful-booker project: -	https://documenter.getpostman.com/view/27649778/2s946pYoqv
+
+Via API						https://api.postman.com/collections/27649778-b6af2b1d-7c14-4ede-85e6-578570182288?access_key=PMAT-01H6HCZTHPJ30445P6XYGZ4D7H
+
